@@ -1,0 +1,4 @@
+AddHandler application/x-httpd-php74 php
+Options Indexes FollowSymLinks Includes
+Order allow,deny
+allow from all
